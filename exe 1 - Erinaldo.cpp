@@ -14,4 +14,4 @@ int main(void){
 	printf("x=%d  y=%d *p=%d", x, y, *p);
 }
 
-//Resposta: x==3, y==4, *p==4
+//Resposta: x vale 3, y vale 4, *p vale 4.
