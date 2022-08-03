@@ -1,4 +1,4 @@
-//2. Seja o trecho de cÛdigo a seguir, que valor de c ser· impresso no comando printf?
+//2. Seja o trecho de c√≥digo a seguir, que valor de c ser√° impresso no comando printf?
 
 
 #include <stdio.h>
@@ -14,4 +14,4 @@ int main(void){
 
 }
 
-// Resposta: c vale 17
+// Resposta: c vale 17.
