@@ -1,4 +1,4 @@
-//1. Seja o trecho de cÛdigo a seguir, quais ser„o os valores de x, y e *p no comando printf?
+//1. Seja o trecho de c√≥digo a seguir, quais ser√£o os valores de x, y e *p no comando printf?
 
 #include <stdio.h>
 
@@ -13,3 +13,5 @@ int main(void){
 	(*p) += x;
 	printf("x=%d  y=%d *p=%d", x, y, *p);
 }
+
+//Resposta: x=3  y=4 *p=4
