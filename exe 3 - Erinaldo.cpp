@@ -35,7 +35,7 @@ void troca(char frase[]){
 	}
 }
 
-void imprimir(char *palavra){
+void imprimir(char palavra[]){
 	printf("Frase trocada  : %s \n", palavra);
 }
 
